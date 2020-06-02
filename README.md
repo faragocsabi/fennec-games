@@ -1,15 +1,14 @@
 # [Fennec Games](https://fennec-games-cfs.web.app/)
-A Fennec Games, egy Steam-hez hasonló, böngészőjátékokat kezelő rendszer, ami a legfelkapottabb címeket gyűjti össze egy helyre.
-Első körben, az oldal debütáló játékaként a Space Invaders-t fogjuk megvalósítani a saját ízlésünk szerint, aminek az írányítását 
-telefonokban lévő gyorsulásmérő fogja kezelni, desktopon pedig nyilakkal történik majd az irányítás.
+A Fennec Games, egy Steam-hez hasonló, böngészőjátékokat kezelő rendszer.
+Első játékaként a Space Invaders-t lett megvalósítva, aminek az írányítását 
+telefonokban lévő gyorsulásmérő fogja kezelni, desktopon pedig WASD gombok segítségével történik majd az irányítás.
 
-Startlapjátékok, Miniclip és társai ellenében nem tennénk reklámokat oldalunkra, illetve sokkal letisztultabb, 
-felhasználóbarátabb élményben részesülnének az oldalra látogatók.
+Startlapjátékok, Miniclip és társai ellenében nem lesznek játékok az oldalon, illetve sokkal letisztultabb, 
+felhasználóbarátabb élményben részesülnek az oldalra látogatók.
 
 ## Program funkcionális követelményei
 - Regisztráció az oldalra
 - Barátlista szerkesztése
-- Megnézhetjük barátaink milyen játékokkal játszottak eddig az oldalon
 - Space Invaders(Mobil) irányítás: mobil döntögetése balra, illetve jobbra
 - Space Invaders(Desktop) irányítás: WASD gombok segítségével
 
@@ -19,8 +18,7 @@ felhasználóbarátabb élményben részesülnének az oldalra látogatók.
 ## User Story:
 #### Space Invaders:
 
-- Gutiérrez felkeresve az oldalt a béta időszakában még csak egy játékot talál, a Space Invaders-t. Játszik vele egy keveset, 
+- János felkeresve az oldalt a béta időszakában még csak egy játékot talál, a Space Invaders-t. Játszik vele egy keveset, 
 majd lementi az oldalt a könyvjelzői közé, mert azt olvasta az oldalon, hogy idővel újabb játékok fognak megjelenni a felületen.
 
-- Mauricio ELTE hallgató, és annyira megtetszett neki az újratervezett Space Invaders, hogy napok óta le sem tudja tenni. A villamoson, a metrón, 
-még előadás közben is ezzel játszik a telefonján.
+- Péter ELTE hallgató, és annyira megtetszett neki az újratervezett Space Invaders, hogy napok óta le sem tudja tenni. A villamoson, a metrón, még előadás közben is ezzel játszik a telefonján.
