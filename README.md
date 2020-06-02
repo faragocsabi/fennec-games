@@ -10,13 +10,11 @@ felhasználóbarátabb élményben részesülnének az oldalra látogatók.
 - Regisztráció az oldalra
 - Barátlista szerkesztése
 - Megnézhetjük barátaink milyen játékokkal játszottak eddig az oldalon
-- Space Invaders(Mobil) irányítás: mobil eldöntése balra, illetve jobbra
-- Space Invaders(Desktop) irányítás: balra-,jobbra nyilak segítségével
+- Space Invaders(Mobil) irányítás: mobil döntögetése balra, illetve jobbra
+- Space Invaders(Desktop) irányítás: WASD gombok segítségével
 
 ## Program nem funkcionális követelményei
-- Az oldal betöldődése minden böngészőben kevesebb mint <5 másodperc
-- Regisztráció gomb megnyomása után a felhasználó 1 másodperc után betud lépni
-- Az oldal sebessége 10000 felhasználóig nem fog csökkenni
+- Az oldal sebessége 100 felhasználóig nem fog csökkenni.
 
 ## User Story:
 #### Space Invaders:
@@ -26,12 +24,3 @@ majd lementi az oldalt a könyvjelzői közé, mert azt olvasta az oldalon, hogy
 
 - Mauricio ELTE hallgató, és annyira megtetszett neki az újratervezett Space Invaders, hogy napok óta le sem tudja tenni. A villamoson, a metrón, 
 még előadás közben is ezzel játszik a telefonján.
-
-
-
-> #### Egy év távlatában, amennyiben befut a projekt
-> - Robi rákeres az oldalra. Mivel még nem regisztrált, csinál egy új fiókot és annyira tetszik neki az oldal kinézete, 
-hogy egy hét alatt kijátsza az első 10 játékot ami a keze ügyébe kerül.
-> - Balázs már a Béta idején regisztrált, sokat is játszott ezért nagy discountokban részesül most, aminek köszönhetően 
-fillérekért szerzi meg a legújabb játékokat.
-> - Csabi az old-school játékokat szereti, de mivel hatalmas a választék ezért ő is megtalálja nálunk kedvenceit.
